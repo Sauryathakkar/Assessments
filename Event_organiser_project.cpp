@@ -1,7 +1,6 @@
 //Assessment - Event organiser project. 
 #include <iostream>
 using namespace std;
-#include <math.h>
 
 class Event{
     char event_name[50];
